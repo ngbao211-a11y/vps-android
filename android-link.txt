@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://notification-admitted-classics-fcc.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://minority-conscious-avon-cartoons.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-23 02:31:01 UTC
+Created   : 2026-09-23 09:49:26 UTC
 =======================================================
