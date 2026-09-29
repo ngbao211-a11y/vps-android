@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://throws-available-frequencies-late.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://mines-grants-assure-teddy.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-29 19:54:12 UTC
+Created   : 2026-09-29 23:28:14 UTC
 =======================================================
